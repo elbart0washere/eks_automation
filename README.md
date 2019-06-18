@@ -1,2 +1,8 @@
-# eks_automation
-migrate EKS from 1.10 to 1.12
+# EKS automation tools
+
+Tool that allows to migrate eks from version 1.10 to 1.12
+
+# Requirements:
+awscli (tested with aws-cli / 1.16.153)
+kubectl (tested with v1.14.2)
+Python3
