@@ -11,4 +11,6 @@ kubectl (tested with v1.14.2)
 
 Python3
 
+# Execute:
 
+python3 upgrade.py
